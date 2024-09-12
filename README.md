@@ -28,7 +28,6 @@ The primary objective was to build a secured-by-design network with segmentation
 ## Steps
 
 ![home_nw drawio](https://github.com/user-attachments/assets/9ef678e7-5f17-47cb-8316-545d4cb67a30)
-
 *Ref 1: Architecture Diagram overview*
 
 1. Proxmox Installation on a physical appliance.
