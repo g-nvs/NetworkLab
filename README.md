@@ -27,7 +27,7 @@ The primary objective was to build a secured-by-design network with segmentation
 
 ## Steps
 <div>
-  ![home_nw](https://github.com/user-attachments/assets/047c2402-2ca1-4b81-8766-edbece499d72)
+  ![home_nw_drawio](https://github.com/user-attachments/assets/047c2402-2ca1-4b81-8766-edbece499d72)
   *Ref 1: Architecture Diagram overview*
 </div>
 
