@@ -26,8 +26,8 @@ The primary objective was to build a secured-by-design network with segmentation
 - Prometheus and Grafana Monitoring stack to keep track of both Proxmox and Server's health. (Next step would be to enable some automatic notifications in case of warnings)
 
 ## Steps
+(https://github.com/user-attachments/assets/047c2402-2ca1-4b81-8766-edbece499d72)
 <div>
-  ![home_nw.drawio](https://github.com/user-attachments/assets/047c2402-2ca1-4b81-8766-edbece499d72)
   *Ref 1: Architecture Diagram overview*
 </div>
 
