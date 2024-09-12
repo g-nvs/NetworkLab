@@ -12,12 +12,6 @@ The primary objective was to build a secured-by-design network with segmentation
 - Firewall and System logs understanding and analysis.
 - Better understanding of Network Virtualization through Proxmox.
 - Overall problem-solving skills on Linux and Proxmox.
-  
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
 
