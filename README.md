@@ -8,10 +8,11 @@ The primary objective was to build a secured-by-design network with segmentation
 ### Skills Learned
 
 - Advanced understanding of Networking concepts and practical application on FW and Switch.
-- Investigation and troubleshooting on Network configuration, issues or performance. Firewall log analysis.
+- Investigation and troubleshooting on Network configuration, issues or performance.
+- Firewall and System logs understanding and analysis.
 - Better understanding of Network Virtualization through Proxmox.
-- 
-
+- Overall problem-solving skills on Linux and Proxmox.
+  
 - Advanced understanding of SIEM concepts and practical application.
 - Proficiency in analyzing and interpreting network logs.
 - Ability to generate and recognize attack signatures and patterns.
@@ -22,7 +23,7 @@ The primary objective was to build a secured-by-design network with segmentation
 
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - OPNSense to monitor, block and route network traffic.
-- PiHole to configure a local DNS for the Homelab, as well as a DNS forward over dns.eu servers. Added a DCHP on top of it to provide IP assignment to Laptops and IoT devices.
+- PiHole to configure a local DNS for the Homelab, as well as a DNS forward over dns.eu Servers. Added a DCHP on top of it to provide IP assignment to Laptops and IoT devices.
 - Prometheus and Grafana Monitoring stack to keep track of both Proxmox and Server's health. (Next step would be to enable some automatic notifications in case of warnings)
 
 ## Steps
