@@ -21,7 +21,7 @@ The primary objective was to build a secured-by-design network with segmentation
 ### Tools Used
 
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- OPNSense to monitor, block or route network traffic.
+- OPNSense to monitor, block and route network traffic.
 - PiHole to configure a local DNS for the Homelab, as well as a DNS forward over dns.eu servers. Added a DCHP on top of it to provide IP assignment to Laptops and IoT devices.
 - Prometheus and Grafana Monitoring stack to keep track of both Proxmox and Server's health. (Next step would be to enable some automatic notifications in case of warnings)
 
