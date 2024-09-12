@@ -1,12 +1,17 @@
 # Home Network Lab
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The Home Network Lab aimed to build the "fundations" for the next projects I had in mind and also helped gain in-depth understanding of network operations and security.
+The primary objective was to build a secured-by-design network with segmentation and isolation with a mix of virtualization and physical hardware.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
+
+- Advanced understanding of Networking concepts and practical application on FW and Switch.
+- Investigation and troubleshooting on Network configuration, issues or performance. Firewall log analysis.
+- Understanding of Network Virtualization through Proxmox.
+- 
 
 - Advanced understanding of SIEM concepts and practical application.
 - Proficiency in analyzing and interpreting network logs.
@@ -17,7 +22,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ### Tools Used
 [Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
+- 
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
