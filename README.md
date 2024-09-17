@@ -28,14 +28,14 @@ The primary objective was to build a secured-by-design network with segmentation
 1. Proxmox Installation on a physical appliance.
 2. Proxmox Network configuration. (VLANs, Network Bridges)
 3. Proxmox Server Hardening.
-4. Physical Switch configuration. (VLANs, Ports)
-5. Network Addressing and Segmentation.
-6. OPNSense Installation over Proxmox.
+4. Network Addressing and Segmentation.
+5. Physical Switch configuration. (VLANs, Ports)
+6. OPNSense virtualized over Proxmox.
 7. OPNSense Interfaces, VLANs, Rule Policies and Global Configuration.
 8. Added Automated feed of Malicious IP Blocking.
 9. Added GeoIP Blocking with Maxmind integration on OPNSense.
-10. DNS Installation over Proxmox. (pihole)
+10. DNS virtualized over Proxmox. (pihole)
 11. DNS Configuration along with DCHP for VLAN User.
 12. Prometheus and Grafana Installation on a spare RPI4.
 13. Node-Exporter installation and configuration on Assets.
-14. ZenArmor installation and configuration over OPNSense.
+14. ZenArmor installation and configuration on OPNSense.
