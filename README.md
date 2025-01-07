@@ -3,7 +3,7 @@
 ## Objective
 
 The Home Network Lab aimed to build the "fundations" for the next projects I had in mind and also helped gain in-depth understanding of network operations and security.
-The primary objective was to build a secured-by-design network with segmentation and isolation with a mix of virtualization and physical hardware.
+The primary objective was to build a secured network with segmentation and isolation with a mix of virtualization and physical hardware.
 
 ### Skills Learned
 
